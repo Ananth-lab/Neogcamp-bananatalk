@@ -3,34 +3,36 @@
 }
 textarea{
     width : 50%;
-    height : 40vh;
+    height : 18vh;
     margin : 2% 25%;
     text-align: center;
 }
 #txt-output{
     width : 50%;
-    height : 40vh;
+    height : 18vh;
     margin : 2% 25%;
     text-align: center;
     border:  black solid;
 }
 #btn-translate{
     text-align: center;
-    width : 10rem;
-    height: 5rem;
+    width : 6rem;
+    height: 3rem;
     background-color: var(--primary-color);
     margin-left: 25%;
-    margin-bottom: 3rem;
+    margin-bottom: .5rem;
 }
 .main-heading{
     text-align: center;
     background-color: var(--primary-color);
     padding :1rem;
     margin-top: 0;
+    margin-bottom: 0;
 }
 .sub-heading{
     font-size: larger;
     padding-left: 25%;
+    padding-bottom: 0;
 }
 .container-main{
     width :50%;
@@ -48,4 +50,5 @@ section{
 }
 p{
     margin-bottom: 0;
+    padding-top: 0;
 }
