@@ -6,39 +6,46 @@ textarea{
     height : 40vh;
     margin : 2% 25%;
     text-align: center;
-    background-color: var(--primary-color);
 }
 #txt-output{
     width : 50%;
     height : 40vh;
     margin : 2% 25%;
     text-align: center;
-    background-color: var(--primary-color);
     border:  black solid;
 }
 #btn-translate{
     text-align: center;
-    width : 5rem;
-    height: 2rem;
-    margin :auto;
-    position: relative;
-    left :50%;
-    right : 50%;
+    width : 10rem;
+    height: 5rem;
+    background-color: var(--primary-color);
+    margin-left: 25%;
+    margin-bottom: 3rem;
 }
 .main-heading{
     text-align: center;
+    background-color: var(--primary-color);
+    padding :1rem;
+    margin-top: 0;
 }
 .sub-heading{
     font-size: larger;
     padding-left: 25%;
 }
 .container-main{
-    width: 50%;
+    width :50%;
     margin :auto;
     background-color: var(--primary-color);
-    border : solid black;
+    margin-bottom: 0;
 }
 body{
     border : 0;
     margin: 0;
+}
+section{
+    background-color: var(--primary-color);
+    margin-bottom: 0;
+}
+p{
+    margin-bottom: 0;
 }
