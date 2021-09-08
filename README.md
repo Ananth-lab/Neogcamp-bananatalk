@@ -11,7 +11,7 @@ Use the translator to convert your text from English to Minion speak or Banana l
   
 ## Netlify
 
-Deployed in Netilify
+Deployed in Netlify
 
 
 
